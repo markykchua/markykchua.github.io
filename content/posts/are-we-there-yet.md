@@ -1,8 +1,11 @@
-+++
-title = 'Are We There Yet - Some random thoughts on AI'
-date = 2024-04-21T23:02:48-04:00
-draft = true
-+++
+---
+title: 'Are We There Yet - Some random thoughts on AI'
+date: 2024-04-21T23:02:48-04:00
+draft: false
+featured_image: '/images/there-yet.png'
+tags: ['AI', 'Software Quality']
+---
+
 
 Humanity has long harbored a fervent desire to fly, a dream mirrored in the design of modern airplanes, which, while distinct from birds, echo their graceful forms. Similarly, the pursuit of artificial intelligence (AI) draws inspiration from the intricate workings of the human brain, propelling the evolution of artificial neural networks. Yet, akin to the turbulent history of AI marked by periods of progress and stagnation (see [AI winter](https://en.wikipedia.org/wiki/AI_winter)), we find ourselves on the cusp of a new frontier where AI's capabilities begin to emulate human cognition. However, as AI reaches new heights, concerns emerge among leading researchers about its potential to surpass human control, echoing echoes reminiscent of the cautionary tales of the past.
 
