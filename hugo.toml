@@ -2,3 +2,4 @@ baseURL = 'https://markykchua.github.io/'
 languageCode = 'en-us'
 title = "Mark Chua's Personal Site"
 theme = 'ananke'
+markdown = 'kramdown'

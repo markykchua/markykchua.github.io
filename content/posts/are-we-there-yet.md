@@ -1,5 +1,5 @@
 +++
-title = 'Are We There Yet'
+title = 'Are We There Yet - Some random thoughts on AI'
 date = 2024-04-21T23:02:48-04:00
 draft = true
 +++
