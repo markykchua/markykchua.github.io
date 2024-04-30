@@ -1,16 +1,16 @@
 ---
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A free mind + a learning machine
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I call myself Mark Chua. This is my personal page. All views and opinions are owned solely by myself; none of them is related to the organization that I am affiliated with. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have the following interests: 
 
-What else do you need?
+- Technology: the intersection of cybersecurity and machine learning. 
 
-### my history
+- Finance: investment. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Philosophy: the fundamental understanding of human knowledge in the context of machine learning and human learning, and their continuous combination.
+

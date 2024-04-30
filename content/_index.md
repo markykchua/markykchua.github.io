@@ -1,2 +1,1 @@
-## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+Welcome to my personal site - my little corner for inspiration, knowledge, and connection. Here, I embark on a journey of exploration, delving into ideas, thoughts, work-in-progress and errors/mistakes :D
