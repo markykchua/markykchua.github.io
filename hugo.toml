@@ -15,8 +15,8 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Some noise from a learning and thinking machine"
+  homeTitle = "Mark Chua's Personal Site" # Set a different text for the header on the home page
+  subtitle = "A lot of noise and maybe some signal from a learning and thinking machine"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
