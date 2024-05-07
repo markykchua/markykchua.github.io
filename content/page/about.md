@@ -4,7 +4,7 @@ subtitle: A free mind + a learning machine
 comments: false
 ---
 
-Aloha! My name Mark Chua. This is my personal page. All views and opinions are owned solely by myself; none of them is related to the organization that I am affiliated with. 
+Aloha! My name is Mark Chua. This is my personal page. All views and opinions are owned solely by myself; none of them is related to the organization that I am affiliated with. 
 
 I have the following interests: 
 
