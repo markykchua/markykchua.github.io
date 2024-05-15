@@ -12,7 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+googleAnalytics = "G-VCC38BQNGY"
 
 [Params]
   homeTitle = "Mark Chua's Personal Site" # Set a different text for the header on the home page
