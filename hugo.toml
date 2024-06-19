@@ -16,7 +16,7 @@ googleAnalytics = "G-VCC38BQNGY"
 
 [Params]
   homeTitle = "Mark Chua's Personal Site" # Set a different text for the header on the home page
-  subtitle = "A lot of noise and maybe some signal from a learning and thinking machine"
+  subtitle = "I may be noisy, but I hope to provide useful information for you."
   mainSections = ["post","posts"]
   logo = "/images/mark-avatar.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
