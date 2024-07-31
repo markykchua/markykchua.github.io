@@ -4,7 +4,7 @@ subtitle: A free mind + a learning machine
 comments: false
 ---
 
-Aloha! My name is Mark Chua. This is my personal page. All views and opinions are owned solely by myself; none of them is related to the organization that I am affiliated with. 
+Hello! My name is Mark Chua. This is my personal page. All views and opinions are owned solely by myself; none of them is related to the organization that I am affiliated with. 
 
 I have the following interests: 
 
@@ -20,3 +20,5 @@ My background encompasses a blend of experiences(well, maybe a bit of expertise 
 - Bread and butter of work: data, code and ideas, and sometimes people and processes as ingredients. 
 
 - Types of work: software engineering, cybersecurity analyst and researcher, a bit of university teacher
+
+Updated: ``I also post AI-assisted fiction here. ``
